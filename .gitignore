@@ -1,0 +1,27 @@
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Rider
+.idea/
+
+# NuGet
+packages/
+*.nupkg
+
+# Publish
+publish/
+_release/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Logs and local settings
+*.log
+appsettings.*.json
